@@ -2,4 +2,6 @@
 Learning Git and Github
 
 
-This is thenext change 
+This is the next change 
+
+this is a change from GIT .checking.
